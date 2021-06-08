@@ -10,6 +10,9 @@ If you find yourself in a square with no possible moves, the game is over.
 However, at this point you can either restart or undo your move to try another path.
 
 ## Credits
+A major thanks to my teacher, Charles Gorrill of North Hennepin Community College for inspiration on this project.
+This was originally a homework assignment for a class, but after learning more concepts after that assignment I have decided to revisit it.
+
 In /assets/icons/ is a source.txt file that provides the source of icon images used within this project.
 
 ## Why are there images for the Queen piece in a game that only uses the Knight Piece?
